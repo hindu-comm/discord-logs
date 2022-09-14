@@ -1,0 +1,302 @@
+{
+  "guild": {
+    "id": "1017076634253283488",
+    "name": "hindu-vidyA हिन्दु-विद्या",
+    "iconUrl": "https://cdn.discordapp.com/icons/1017076634253283488/a5e17d270c856b5ff45cb6dd80482f2e.png"
+  },
+  "channel": {
+    "id": "1019147573505839156",
+    "type": "GuildTextChat",
+    "categoryId": "1017076634861449310",
+    "category": "Misc",
+    "name": "admin-zone",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1019147693177712654",
+      "type": "Default",
+      "timestamp": "2022-09-13T07:29:04.902+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@vish",
+      "author": {
+        "id": "1019071976700121118",
+        "name": "dyuyantra",
+        "discriminator": "7552",
+        "nickname": "dyuyantra",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1019071976700121118/85c142717739f6b2222f5bad78298b82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Online: vish#1233\nOnline: skmnktl#1845\nOnline: akp#8502\nOnline: Kishore Chitrapu#2258\n2022-09-13, 12:57:47: राजेश्वरी#7749\n2022-09-13, 12:46:24: krsree#9129\n2022-09-13, 12:18:02: omshivaprakash#7012\n2022-09-13, 12:08:19: jora#3605\n2022-09-13, 11:35:16: bhauman#5093",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1019148108925505597",
+      "type": "Default",
+      "timestamp": "2022-09-13T07:30:44.024+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@vish",
+      "author": {
+        "id": "1019071976700121118",
+        "name": "dyuyantra",
+        "discriminator": "7552",
+        "nickname": "dyuyantra",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1019071976700121118/85c142717739f6b2222f5bad78298b82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Online: vish#1233\nOnline: skmnktl#1845\nOnline: akp#8502\n2022-09-13, 13:00:18: Kishore Chitrapu#2258\n2022-09-13, 12:57:47: राजेश्वरी#7749\n2022-09-13, 12:46:24: krsree#9129\n2022-09-13, 12:18:02: omshivaprakash#7012\n2022-09-13, 12:08:19: jora#3605\n2022-09-13, 11:35:16: bhauman#5093",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1019163360043991070",
+      "type": "Default",
+      "timestamp": "2022-09-13T08:31:20.174+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@vish",
+      "author": {
+        "id": "1019071976700121118",
+        "name": "dyuyantra",
+        "discriminator": "7552",
+        "nickname": "dyuyantra",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1019071976700121118/85c142717739f6b2222f5bad78298b82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**akp#8502** was last online  13-Sep-22 02:00 PM",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1019165172650217472",
+      "type": "Default",
+      "timestamp": "2022-09-13T08:38:32.333+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@vish",
+      "author": {
+        "id": "1019071976700121118",
+        "name": "dyuyantra",
+        "discriminator": "7552",
+        "nickname": "dyuyantra",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1019071976700121118/85c142717739f6b2222f5bad78298b82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**akp#8502** - 2022-09-13, 14:00:17 IST.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1019201344793489518",
+      "type": "Default",
+      "timestamp": "2022-09-13T11:02:16.444+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@vish",
+      "author": {
+        "id": "1019071976700121118",
+        "name": "dyuyantra",
+        "discriminator": "7552",
+        "nickname": "dyuyantra",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1019071976700121118/85c142717739f6b2222f5bad78298b82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Online: vish#1233\nOnline: thehitlet#9700\nOnline: krsree#9129\n2022-09-13, 16:19:32 IST: omshivaprakash#7012\n2022-09-13, 16:19:01 IST: Kishore Chitrapu#2258\n2022-09-13, 15:46:49 IST: p6#4473\n2022-09-13, 15:32:34 IST: skmnktl#1845\n2022-09-13, 15:07:14 IST: suhasmahesh#1063\n2022-09-13, 14:55:38 IST: राजेश्वरी#7749\n2022-09-13, 14:00:17 IST: akp#8502\n2022-09-13, 13:45:00 IST: हेमन्तोजातवेदाः#2116\n2022-09-13, 12:08:19 IST: jora#3605\n2022-09-13, 11:35:16 IST: bhauman#5093",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1019201379501359124",
+      "type": "Default",
+      "timestamp": "2022-09-13T11:02:24.719+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@vish",
+      "author": {
+        "id": "1019071976700121118",
+        "name": "dyuyantra",
+        "discriminator": "7552",
+        "nickname": "dyuyantra",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1019071976700121118/85c142717739f6b2222f5bad78298b82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Online: vish#1233\nOnline: thehitlet#9700\nOnline: krsree#9129\n2022-09-13, 16:19:32 IST: omshivaprakash#7012\n2022-09-13, 16:19:01 IST: Kishore Chitrapu#2258\n2022-09-13, 15:46:49 IST: p6#4473\n2022-09-13, 15:32:34 IST: skmnktl#1845\n2022-09-13, 15:07:14 IST: suhasmahesh#1063\n2022-09-13, 14:55:38 IST: राजेश्वरी#7749\n2022-09-13, 14:00:17 IST: akp#8502\n2022-09-13, 13:45:00 IST: हेमन्तोजातवेदाः#2116\n2022-09-13, 12:08:19 IST: jora#3605\n2022-09-13, 11:35:16 IST: bhauman#5093",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1019206724344873031",
+      "type": "Default",
+      "timestamp": "2022-09-13T11:23:39.029+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@vish",
+      "author": {
+        "id": "1019071976700121118",
+        "name": "dyuyantra",
+        "discriminator": "7552",
+        "nickname": "dyuyantra",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1019071976700121118/85c142717739f6b2222f5bad78298b82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Online: vish#1233\nOnline: krsree#9129\nOnline: Kishore Chitrapu#2258\n2022-09-13, 16:49:13 IST: omshivaprakash#7012\n2022-09-13, 16:38:35 IST: thehitlet#9700\n2022-09-13, 15:46:49 IST: p6#4473\n2022-09-13, 15:32:34 IST: skmnktl#1845\n2022-09-13, 15:07:14 IST: suhasmahesh#1063\n2022-09-13, 14:55:38 IST: राजेश्वरी#7749\n2022-09-13, 14:00:17 IST: akp#8502\n2022-09-13, 13:45:00 IST: हेमन्तोजातवेदाः#2116\n2022-09-13, 12:08:19 IST: jora#3605\n2022-09-13, 11:35:16 IST: bhauman#5093",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ]
+    }
+  ],
+  "messageCount": 7
+}

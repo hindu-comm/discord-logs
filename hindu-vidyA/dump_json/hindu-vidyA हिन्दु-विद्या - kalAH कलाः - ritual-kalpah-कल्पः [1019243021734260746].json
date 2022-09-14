@@ -1,0 +1,64 @@
+{
+  "guild": {
+    "id": "1017076634253283488",
+    "name": "hindu-vidyA हिन्दु-विद्या",
+    "iconUrl": "https://cdn.discordapp.com/icons/1017076634253283488/a5e17d270c856b5ff45cb6dd80482f2e.png"
+  },
+  "channel": {
+    "id": "1019243021734260746",
+    "type": "GuildTextChat",
+    "categoryId": "1019453400359907418",
+    "category": "kalAH कलाः",
+    "name": "ritual-kalpah-कल्पः",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1019243041426518118",
+      "type": "Default",
+      "timestamp": "2022-09-13T13:47:57.696+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=ygesQQylzDc",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Making of traditional Yajnopaveetham...!",
+          "url": "https://www.youtube.com/watch?v=ygesQQylzDc",
+          "timestamp": null,
+          "description": "ಯಜ್ಞೋಪವಿತದ ಸಾಂಪ್ರದಾಯಿಕ ತಯಾರಿ...!\nMaking of traditional Yajnopaveetham...!\n#kannada #Vipula #news\n#yajnopaveetham\n#ಯಜ್ಞೋಪವಿತ\n#bhatar \n#bhat\n#community \n#Like\n#Follow\n#comment\n#Share\n| Kannada vipula news |\n\nಜನಿವಾರ ಬೇಕಿದ್ದರೆ ಸಂಪರ್ಕಿಸಿ:\nಗೋವಿಂದ ಭಟ್ ಪನೆಯಾಲ: 94978 95643\n\nContact for Yajopaveetham\nGovindha bhat Paneyala\nPH : 94978 95643\n\n\nA person with...",
+          "color": "#FF0000",
+          "author": {
+            "name": "ಕನ್ನಡ ವಿಪುಲ News",
+            "url": "https://www.youtube.com/channel/UCIl-PruVXgg6bzpFnzN37Jg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YKMpPg_K3Jt2NsuvodporuMj76GSf3UXQEZlXY4hrYo/https/i.ytimg.com/vi/ygesQQylzDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

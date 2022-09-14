@@ -1,0 +1,64 @@
+{
+  "guild": {
+    "id": "1017076634253283488",
+    "name": "hindu-vidyA हिन्दु-विद्या",
+    "iconUrl": "https://cdn.discordapp.com/icons/1017076634253283488/a5e17d270c856b5ff45cb6dd80482f2e.png"
+  },
+  "channel": {
+    "id": "1019222093902131210",
+    "type": "GuildTextChat",
+    "categoryId": "1017076634861449307",
+    "category": "tattvam-तत्त्वम्",
+    "name": "deva-tattvam-देव-तत्त्वम्",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1019222133743824986",
+      "type": "Default",
+      "timestamp": "2022-09-13T12:24:52.916+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/blog_supplement/status/1569557356543111168",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/blog_supplement/status/1569557356543111168",
+          "timestamp": "2022-09-13T05:23:29.422+00:00",
+          "description": "The religious experience of the Arya in a nutshell:\napAma somam\namR^itA abhUma\naganma jyotiH\navidAma devAn |",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "manasataramgini (@blog_supplement)",
+            "url": "https://twitter.com/blog_supplement",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Vp6yUx5hJxj7OnkGXxWWunawMnumfayTH6Bce5V15MY/https/pbs.twimg.com/profile_images/1598989272/hexa05.png_400x400.jpg"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

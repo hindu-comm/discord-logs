@@ -1,0 +1,597 @@
+{
+  "guild": {
+    "id": "1017076634253283488",
+    "name": "hindu-vidyA हिन्दु-विद्या",
+    "iconUrl": "https://cdn.discordapp.com/icons/1017076634253283488/a5e17d270c856b5ff45cb6dd80482f2e.png"
+  },
+  "channel": {
+    "id": "1017314080572313630",
+    "type": "GuildTextChat",
+    "categoryId": "1017076634861449307",
+    "category": "tattvam-तत्त्वम्",
+    "name": "general-अविशिष्टम्",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1017314182955282493",
+      "type": "Default",
+      "timestamp": "2022-09-08T06:03:22+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://ncfsurvey.ncert.gov.in ← very pertinent survey shared by @Tribhuwan .",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1017310949981556747",
+          "name": "Tribhuwan",
+          "discriminator": "6273",
+          "nickname": "Tribhuwan",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1017412467594362912",
+      "type": "Default",
+      "timestamp": "2022-09-08T12:33:54.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@suhasmahesh कच्चिच्छब्दे ऽर्थखण्डद्वयं निहितं मे भाति - कामना, प्रश्नश् च। न भवान् अभ्युपैति?",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "885282053229252618",
+          "name": "suhasmahesh",
+          "discriminator": "1063",
+          "nickname": "suhasmahesh",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1017433201930674236",
+      "type": "Reply",
+      "timestamp": "2022-09-08T13:56:18.335+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "अभ्युपैमि । I think \"कच्चित् प्राजानां सुखम्\" is parallel to \"ಪ್ರಜೆಗಳು ಸುಖವಾಗಿದ್ದಾರಲ್ಲವೇ?\" is parallel to \"Your subjects are well, aren't they?\" This is sometimes a rhetorical question (कच्चिद्भर्तु: स्‍म‍रसि रसिके! त्‍वं हि तस्‍य प्रियेति−मेघदूते). Sometimes a polite way of indicating what ought to be, disguised as a question (शृणोषि कच्चिद् वचनं विपश्चिताम् —रामचरिते). It seems to exclusively be used with लट् or लृट्.\n\n\"कच्चित् कोशादिकं लभ्येत\" = \"The dictionaries are available, aren't they?\"/\"I hope the dictionaries are available\"",
+      "author": {
+        "id": "885282053229252618",
+        "name": "suhasmahesh",
+        "discriminator": "1063",
+        "nickname": "suhasmahesh",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/885282053229252618/aa07ee51570e78e009e314b342c6267e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1017412467594362912",
+        "channelId": "1017314080572313630",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1017433804060758147",
+      "type": "Default",
+      "timestamp": "2022-09-08T13:58:41.894+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The effect we wanted for the Ambuda sentence may be captured by अपि नाम (\"अपि नाम कोशाः लभ्येरन्\"). See विक्रमोर्वशीयम् \"अपि नाम पुरूरवाः भवेयम्\" = \"I wish I were Pururava\"/\"If only I were Pururava\". But this usage would probably be understood by very few...",
+      "author": {
+        "id": "885282053229252618",
+        "name": "suhasmahesh",
+        "discriminator": "1063",
+        "nickname": "suhasmahesh",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/885282053229252618/aa07ee51570e78e009e314b342c6267e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1017452202119401563",
+      "type": "Reply",
+      "timestamp": "2022-09-08T15:11:48.333+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "साधु सूचितम्। मन्ये तादृश्या वाक्यशृङ्खलाया अर्थं प्रकाशिष्यते सहजतया पाठकेषु।",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "885282053229252618",
+          "name": "suhasmahesh",
+          "discriminator": "1063",
+          "nickname": "suhasmahesh",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1017433804060758147",
+        "channelId": "1017314080572313630",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1017638866368348251",
+      "type": "Default",
+      "timestamp": "2022-09-09T03:33:32.558+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "॥ विज्ञापनम् ॥ \n\nDo you want to improve access to Sanskrit in your native language?\n\nAmbuda (https://ambuda.org/) is looking for volunteer translators to translate its English interface into other languages. Sanskrit and Hindi are our top priorities, but we will support any language you're passionate about.\n\nIf you're interested, please join our translation project here:\n\nhttps://www.transifex.com/ambuda/ambuda",
+      "author": {
+        "id": "213083482082115584",
+        "name": "akp",
+        "discriminator": "8502",
+        "nickname": "akp",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ambuda",
+          "url": "https://ambuda.org/",
+          "timestamp": null,
+          "description": "A breakthrough Sanskrit library. Read our library of traditional Sanskrit texts with word-by-word analysis, integrated dictionary support, and so much more.",
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "The Ambuda translation project on Transifex",
+          "url": "https://www.transifex.com/ambuda/ambuda",
+          "timestamp": null,
+          "description": "Join Ambuda project in Transifex, and contribute to the world's largest localization community",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/J0JOrD9JH6RWmZ75zOaD7E-p0WpZvUX_XSg0lzlTS30/https/explore.transifex.com/og_image_join.png",
+            "width": 1600,
+            "height": 900
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1017787961846276177",
+      "type": "Default",
+      "timestamp": "2022-09-09T13:25:59.69+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ambuda is a great initiative.. quickly browsed through some content. Very useful for self- learners. Can Vacaspatyam and Kalpadruma dictionaries be integrated to provide sanskrit meanings in addition to monier williams?",
+      "author": {
+        "id": "1017782857810329640",
+        "name": "sastry",
+        "discriminator": "3440",
+        "nickname": "sastry",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017782857810329640/f7f2e9361e8a54ce6e72580ac7b967af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017790093571928067",
+      "type": "Reply",
+      "timestamp": "2022-09-09T13:34:27.933+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thank you! they already are — you can choose a different dictionary from the drop down",
+      "author": {
+        "id": "213083482082115584",
+        "name": "akp",
+        "discriminator": "8502",
+        "nickname": "akp",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1017782857810329640",
+          "name": "sastry",
+          "discriminator": "3440",
+          "nickname": "sastry",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1017787961846276177",
+        "channelId": "1017314080572313630",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1017805159818080307",
+      "type": "Default",
+      "timestamp": "2022-09-09T14:34:20.006+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "अत्र द्राविडभाषाभिज्ञाः के?",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017853784791207936",
+      "type": "Default",
+      "timestamp": "2022-09-09T17:47:33.103+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://vishvasa.github.io/jyotiSham/observation/history/hindu/precession_records/direct_acknowledgement/jarad-gava-shrutiH/",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "जरद्-गव-श्रुतिः",
+          "url": "https://vishvasa.github.io/jyotiSham/observation/history/hindu/precession_records/direct_acknowledgement/jarad-gava-shrutiH/",
+          "timestamp": null,
+          "description": "जरद्गवः कम्बल-पादुकाभ्यां द्वारि स्थितो गायति मत्तकानि।\nतं ब्राह्मणी पृच्छति पुत्रकामा\n“राजन् रुमायां+++(=लवणाकरे)+++ लशुनस्य कोऽर्थः+++(→मूल्यम्)+++\"॥\nElisa Freschi  ``The old ox sings crazy songs staying on the door with woolen sandals. A Brāhmana woman who desires a child asks him: `O king! What is the value of garlic in a salt-mine?’ \"\n This...",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017853787496513599",
+      "type": "Default",
+      "timestamp": "2022-09-09T17:47:33.748+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GG @vish, you just advanced to level 1!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1017980750206873600",
+      "type": "Default",
+      "timestamp": "2022-09-10T02:12:04.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@vish Hi Vishwas! This is Kasyap (Arun's friend). We've corresponded; hope you're well!",
+      "author": {
+        "id": "1017977362182316133",
+        "name": "skmnktl",
+        "discriminator": "1845",
+        "nickname": "skmnktl",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1017981267385516122",
+      "type": "Default",
+      "timestamp": "2022-09-10T02:14:07.322+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would you be open to creating a channel where somebody could mentor the less fluent among us with translation / reading?",
+      "author": {
+        "id": "1017977362182316133",
+        "name": "skmnktl",
+        "discriminator": "1845",
+        "nickname": "skmnktl",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017981387699126274",
+      "type": "Reply",
+      "timestamp": "2022-09-10T02:14:36.007+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "स्वागतम् भोः! यजुर्वेदजालक्षेत्रं निर्मितं तवाभीष्टम्?",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1017977362182316133",
+          "name": "skmnktl",
+          "discriminator": "1845",
+          "nickname": "skmnktl",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1017980750206873600",
+        "channelId": "1017314080572313630",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1017981817221033984",
+      "type": "Reply",
+      "timestamp": "2022-09-10T02:16:18.413+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sure, but first - might it be better to use https://discord.gg/H8qSYyxD , which is older and seemingly better populated?",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1017977362182316133",
+          "name": "skmnktl",
+          "discriminator": "1845",
+          "nickname": "skmnktl",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1017981267385516122",
+        "channelId": "1017314080572313630",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1017983779173826650",
+      "type": "Reply",
+      "timestamp": "2022-09-10T02:24:06.179+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "asti! aruṇasya ambudena tadiccha nijam bhavatu!",
+      "author": {
+        "id": "1017977362182316133",
+        "name": "skmnktl",
+        "discriminator": "1845",
+        "nickname": "skmnktl",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1017981387699126274",
+        "channelId": "1017314080572313630",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1017983941203992586",
+      "type": "Reply",
+      "timestamp": "2022-09-10T02:24:44.81+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ahh I'll join that. Thank you. Let me see what the traffic there is like.",
+      "author": {
+        "id": "1017977362182316133",
+        "name": "skmnktl",
+        "discriminator": "1845",
+        "nickname": "skmnktl",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1017981817221033984",
+        "channelId": "1017314080572313630",
+        "guildId": "1017076634253283488"
+      }
+    }
+  ],
+  "messageCount": 17
+}

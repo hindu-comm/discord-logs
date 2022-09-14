@@ -1,0 +1,122 @@
+{
+  "guild": {
+    "id": "1017076634253283488",
+    "name": "hindu-vidyA हिन्दु-विद्या",
+    "iconUrl": "https://cdn.discordapp.com/icons/1017076634253283488/a5e17d270c856b5ff45cb6dd80482f2e.png"
+  },
+  "channel": {
+    "id": "1018697257136173128",
+    "type": "GuildTextChat",
+    "categoryId": "1017076634861449307",
+    "category": "tattvam-तत्त्वम्",
+    "name": "shabda-शब्द-शास्त्रम्",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1018697310403837972",
+      "type": "Default",
+      "timestamp": "2022-09-12T01:39:25.281+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://groups.google.com/g/shabda-shastram/c/8yoH2_KzNf4 इति कश्चन प्रश्नः।",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018765824561004624",
+      "type": "Default",
+      "timestamp": "2022-09-12T06:11:40.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@उज्ज्वल - भवतो नामान्तोदात्त इति ममानुमानं साधु?",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "829240528935583775",
+          "name": "उज्ज्वल",
+          "discriminator": "6297",
+          "nickname": "उज्ज्वल",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1019089788046942248",
+      "type": "Reply",
+      "timestamp": "2022-09-13T03:38:59.243+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "सा॒धु! \uD83D\uDE42",
+      "author": {
+        "id": "829240528935583775",
+        "name": "उज्ज्वल",
+        "discriminator": "6297",
+        "nickname": "उज्ज्वल",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1018765824561004624",
+        "channelId": "1018697257136173128",
+        "guildId": "1017076634253283488"
+      }
+    }
+  ],
+  "messageCount": 3
+}

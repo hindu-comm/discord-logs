@@ -1,0 +1,3575 @@
+{
+  "guild": {
+    "id": "1017076634253283488",
+    "name": "hindu-vidyA हिन्दु-विद्या",
+    "iconUrl": "https://cdn.discordapp.com/icons/1017076634253283488/a5e17d270c856b5ff45cb6dd80482f2e.png"
+  },
+  "channel": {
+    "id": "1017076634861449311",
+    "type": "GuildTextChat",
+    "categoryId": "1017076634861449310",
+    "category": "Misc",
+    "name": "entry-intro",
+    "topic": "Entry and Intro messages"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1017309727752982569",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T05:45:39.797+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "523929773597261825",
+        "name": "omshivaprakash",
+        "discriminator": "7012",
+        "nickname": "omshivaprakash",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/523929773597261825/e0576a440ef4bda7f0b4b1f0956874a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017309767238160384",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T05:45:49.211+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "989725843846750269",
+        "name": "Andhrabharati",
+        "discriminator": "8819",
+        "nickname": "Andhrabharati",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017311360633294879",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T05:52:09.106+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017311168483831828",
+        "name": "Balu",
+        "discriminator": "2760",
+        "nickname": "Balu",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017311365792272384",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T05:52:10.336+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017311160372047944",
+        "name": "pacharya",
+        "discriminator": "4095",
+        "nickname": "pacharya",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017311746551205928",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T05:53:41.116+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017310949981556747",
+        "name": "Tribhuwan",
+        "discriminator": "6273",
+        "nickname": "Tribhuwan",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017311871080087604",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T05:54:10.806+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "450280332470648833",
+        "name": "bhauman",
+        "discriminator": "5093",
+        "nickname": "bhauman",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017312120334995517",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T05:55:10.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "713766522153336912",
+        "name": "thehitlet",
+        "discriminator": "9700",
+        "nickname": "thehitlet",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713766522153336912/0e379ac7002449024c61eb45090dd45b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017312241722331216",
+      "type": "Default",
+      "timestamp": "2022-09-08T05:55:39.174+00:00",
+      "timestampEdited": "2022-09-08T06:13:51.902+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Invite propagated in a few channels:\n\nOpened a new Discord server, titled \"hindu-vidya\", to cover mail-streams/ channels I frequently use, including mailstreams such as hindu-vidya, meta-indology, kannada, tamil, shabda-shAstram etc.. You're welcome to join / try it out - https://discord.gg/KGk558erJV . (More context - https://groups.google.com/g/hindu-vidya/c/PKYw3X--7wM)\n\nNothing special really about this app (Certainly better than whatsapp groups, but that's a very low bar). Just that contributors to https://ambuda.org/ , with whom I communicate frequently, are there - so thought of making wider use of it.",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ambuda",
+          "url": "https://ambuda.org/",
+          "timestamp": null,
+          "description": "A breakthrough Sanskrit library. Read our library of traditional Sanskrit texts with word-by-word analysis, integrated dictionary support, and so much more.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017312310357925898",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T05:55:55.538+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "213083482082115584",
+        "name": "akp",
+        "discriminator": "8502",
+        "nickname": "akp",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017312469343027260",
+      "type": "Default",
+      "timestamp": "2022-09-08T05:56:33.443+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE4F namaH sarvebhyaH",
+      "author": {
+        "id": "213083482082115584",
+        "name": "akp",
+        "discriminator": "8502",
+        "nickname": "akp",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017312625681498122",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T05:57:10.717+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "792222389072429116",
+        "name": "Sadho",
+        "discriminator": "9689",
+        "nickname": "Sadho",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/792222389072429116/c82abf95eee503a71a4724467b3f9df4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017312757764325406",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T05:57:42.208+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "632802235151024128",
+        "name": "shilpa.rpns",
+        "discriminator": "0281",
+        "nickname": "shilpa.rpns",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017312888806977557",
+      "type": "Default",
+      "timestamp": "2022-09-08T05:58:13.451+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Namo namaha \uD83D\uDE4F",
+      "author": {
+        "id": "632802235151024128",
+        "name": "shilpa.rpns",
+        "discriminator": "0281",
+        "nickname": "shilpa.rpns",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017313060140101684",
+      "type": "Reply",
+      "timestamp": "2022-09-08T05:58:54.3+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "अहो! स्वागतम्!",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "213083482082115584",
+          "name": "akp",
+          "discriminator": "8502",
+          "nickname": "akp",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1017312469343027260",
+        "channelId": "1017076634861449311",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1017313684835553381",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T06:01:23.239+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017313060576296990",
+        "name": "mahasena",
+        "discriminator": "7945",
+        "nickname": "mahasena",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017313060576296990/48e9080076cbf521a3cd70b164f37929.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017313780042043392",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T06:01:45.938+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017313394761666600",
+        "name": "Sudipta Munsi",
+        "discriminator": "9718",
+        "nickname": "Sudipta Munsi",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017313850078535701",
+      "type": "Default",
+      "timestamp": "2022-09-08T06:02:02.636+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Namaskara",
+      "author": {
+        "id": "1017311160372047944",
+        "name": "pacharya",
+        "discriminator": "4095",
+        "nickname": "pacharya",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1017314118522392617",
+      "type": "Default",
+      "timestamp": "2022-09-08T06:03:06.638+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Shivabhyaam namaha",
+      "author": {
+        "id": "1017313060576296990",
+        "name": "mahasena",
+        "discriminator": "7945",
+        "nickname": "mahasena",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017313060576296990/48e9080076cbf521a3cd70b164f37929.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1017314404099964970",
+      "type": "Default",
+      "timestamp": "2022-09-08T06:04:14.725+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Namaskarah",
+      "author": {
+        "id": "1017313394761666600",
+        "name": "Sudipta Munsi",
+        "discriminator": "9718",
+        "nickname": "Sudipta Munsi",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1017315377719558144",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T06:08:06.854+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017315063914303540",
+        "name": "KG",
+        "discriminator": "8978",
+        "nickname": "KG",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017317979425357826",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T06:18:27.149+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "994310783766892676",
+        "name": "lakiran",
+        "discriminator": "2921",
+        "nickname": "lakiran",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017321116370477086",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T06:30:55.055+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017318022697992243",
+        "name": "Raghu",
+        "discriminator": "2803",
+        "nickname": "Raghu",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017321637869260810",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T06:32:59.39+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017321442687332384",
+        "name": "SuhasBharadwaj",
+        "discriminator": "4298",
+        "nickname": "SuhasBharadwaj",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017322266192781332",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T06:35:29.194+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "526784768180748289",
+        "name": "SuhasBharadwaj",
+        "discriminator": "5361",
+        "nickname": "SuhasBharadwaj",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017323255100620820",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T06:39:24.968+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017323113979068426",
+        "name": "aprameyaha",
+        "discriminator": "4529",
+        "nickname": "aprameyaha",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017326156434911263",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T06:50:56.7+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017325893112299552",
+        "name": "amithah",
+        "discriminator": "8141",
+        "nickname": "amithah",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017327518992314428",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T06:56:21.559+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017327349110411265",
+        "name": "वारिजा",
+        "discriminator": "4225",
+        "nickname": "वारिजा",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017332990889705523",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T07:18:06.161+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "581144199882211360",
+        "name": "rudra7",
+        "discriminator": "6257",
+        "nickname": "rudra7",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/581144199882211360/da1b015f3d12975ddf2ebe116da81bf9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017334359814049843",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T07:23:32.538+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017333400564142081",
+        "name": "Guru",
+        "discriminator": "3629",
+        "nickname": "Guru",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017333400564142081/5445ffd7ffb201a98393cbdf684ea4b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017340633456857098",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T07:48:28.291+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017340307039322112",
+        "name": "PRAHRUSTAM",
+        "discriminator": "7844",
+        "nickname": "PRAHRUSTAM",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017351272724168714",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T08:30:44.89+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017350934352908308",
+        "name": "ramanujachar",
+        "discriminator": "7948",
+        "nickname": "ramanujachar",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017365418412888094",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T09:26:57.485+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "683989754173325326",
+        "name": "virtualv",
+        "discriminator": "4212",
+        "nickname": "virtualv",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683989754173325326/04b781e81093662d5aaf012dbab51827.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017369526612008970",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T09:43:16.956+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "996389094768791632",
+        "name": "Govindarajulu",
+        "discriminator": "7705",
+        "nickname": "Govindarajulu",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017369643482091520",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T09:43:44.82+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017368893083373609",
+        "name": "Haripriya",
+        "discriminator": "7038",
+        "nickname": "Haripriya",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017368893083373609/fc1bdb19a1c1091cdb6237ce1823a4c4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017369958461739009",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T09:44:59.917+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017369772675047467",
+        "name": "ramu",
+        "discriminator": "2893",
+        "nickname": "ramu",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017373075576205332",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T09:57:23.095+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017371454855200868",
+        "name": "sekhar",
+        "discriminator": "3736",
+        "nickname": "sekhar",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017371454855200868/fdf5782abbd4cd73398a1e819d24dee0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017379365086052392",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T10:22:22.631+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "829240528935583775",
+        "name": "उज्ज्वल",
+        "discriminator": "6297",
+        "nickname": "उज्ज्वल",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017393293396545596",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T11:17:43.399+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017393144024801280",
+        "name": "Ravisharma",
+        "discriminator": "4022",
+        "nickname": "Ravisharma",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017404776713048115",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T12:03:21.235+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "228850616565235712",
+        "name": "Ashwin",
+        "discriminator": "0168",
+        "nickname": "Ashwin",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/228850616565235712/8ba68932790c0cb27984bc1fee6cd09f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017406593735868496",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T12:10:34.447+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "885282053229252618",
+        "name": "suhasmahesh",
+        "discriminator": "1063",
+        "nickname": "suhasmahesh",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/885282053229252618/aa07ee51570e78e009e314b342c6267e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017412137573961790",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T12:32:36.201+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017411221663789096",
+        "name": "Vijay",
+        "discriminator": "3056",
+        "nickname": "Vijay",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017411221663789096/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017412565967568966",
+      "type": "Default",
+      "timestamp": "2022-09-08T12:34:18.338+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "नमस्सर्वेभ्यः॥",
+      "author": {
+        "id": "1017411221663789096",
+        "name": "Vijay",
+        "discriminator": "3056",
+        "nickname": "Vijay",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017411221663789096/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017413070257127514",
+      "type": "Reply",
+      "timestamp": "2022-09-08T12:36:18.57+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "स्वागतम्! भाष्योपाह्वो भवान् मन्मित्रम्?",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1017411221663789096",
+          "name": "Vijay",
+          "discriminator": "3056",
+          "nickname": "Vijay",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1017412565967568966",
+        "channelId": "1017076634861449311",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1017416082090369096",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T12:48:16.647+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "716249678923956255",
+        "name": "RadhMan",
+        "discriminator": "0768",
+        "nickname": "RadhMan",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017416569917292565",
+      "type": "Default",
+      "timestamp": "2022-09-08T12:50:12.954+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "नमो वः।",
+      "author": {
+        "id": "716249678923956255",
+        "name": "RadhMan",
+        "discriminator": "0768",
+        "nickname": "RadhMan",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1017420291338670090",
+      "type": "Reply",
+      "timestamp": "2022-09-08T13:05:00.21+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "अहं जीमेल् द्वार्या योजितवान् महोदयः॥",
+      "author": {
+        "id": "1017411221663789096",
+        "name": "Vijay",
+        "discriminator": "3056",
+        "nickname": "Vijay",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017411221663789096/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1017413070257127514",
+        "channelId": "1017076634861449311",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1017428584962474084",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T13:37:57.564+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017427164376879165",
+        "name": "divya",
+        "discriminator": "1182",
+        "nickname": "divya",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017427164376879165/a67944a173611272d435512cf1e6ab9c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017434142767583336",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T14:00:02.648+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "876926417496051752",
+        "name": "vikramnanda",
+        "discriminator": "5027",
+        "nickname": "vikramnanda",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017439788053319780",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T14:22:28.589+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "660109001073098764",
+        "name": "Kishore Chitrapu",
+        "discriminator": "2258",
+        "nickname": "Kishore Chitrapu",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017440139305291796",
+      "type": "Default",
+      "timestamp": "2022-09-08T14:23:52.334+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "नमस्ते",
+      "author": {
+        "id": "660109001073098764",
+        "name": "Kishore Chitrapu",
+        "discriminator": "2258",
+        "nickname": "Kishore Chitrapu",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017440221324918806",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T14:24:11.889+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017440066433454120",
+        "name": "Srinivasan",
+        "discriminator": "7960",
+        "nickname": "Srinivasan",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017441134198411364",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T14:27:49.535+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017442799379021845",
+      "type": "Default",
+      "timestamp": "2022-09-08T14:34:26.545+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "स्वागतं सर्वेभ्यः। युष्मदागमनेन वर्धताम् अस्मद्विद्योपार्जनम्। मन्दन्तां देवाः!!",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017446750669250660",
+      "type": "Default",
+      "timestamp": "2022-09-08T14:50:08.606+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "नमोऽस्तु @Unmatta! स्वागत हिन्दुविद्यासमूहे! \nWelcome! How about introducing yourself and your interests?",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "896625137460342835",
+          "name": "Unmatta",
+          "discriminator": "7113",
+          "nickname": "Unmatta",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1017446751214510111",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T14:50:08.736+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "896625137460342835",
+        "name": "Unmatta",
+        "discriminator": "7113",
+        "nickname": "Unmatta",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/896625137460342835/5445ffd7ffb201a98393cbdf684ea4b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017450526985691167",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T15:05:08.95+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017450228472881274",
+        "name": "Anunad",
+        "discriminator": "0664",
+        "nickname": "Anunad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017450527795204096",
+      "type": "Default",
+      "timestamp": "2022-09-08T15:05:09.143+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Anunad! स्वागत हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017452217411850260",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T15:11:51.979+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "911008495300661338",
+        "name": "steppenWolf",
+        "discriminator": "2410",
+        "nickname": "steppenWolf",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/911008495300661338/30b550bdb00781044de4cba13afe4dfc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017452217894174890",
+      "type": "Default",
+      "timestamp": "2022-09-08T15:11:52.094+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @steppenWolf! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017453577750466712",
+      "type": "Default",
+      "timestamp": "2022-09-08T15:17:16.309+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Namo Namahah!! A Samskritam enjoyer/enthusiast here. The Google group has been great, but as Mr. Vasuki mentioned, a Discord channel definitely makes things even more fluid.. so happy to see this going. \uD83D\uDE4F\uD83C\uDFFE",
+      "author": {
+        "id": "911008495300661338",
+        "name": "steppenWolf",
+        "discriminator": "2410",
+        "nickname": "steppenWolf",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/911008495300661338/30b550bdb00781044de4cba13afe4dfc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1017455624650494053",
+      "type": "Reply",
+      "timestamp": "2022-09-08T15:25:24.328+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "साधारणसंस्कृतस्य कृते प्रतिष्ठिततरं स्थानं किञ्चन विद्यते - https://discord.gg/H8qSYyxD ।",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "911008495300661338",
+          "name": "steppenWolf",
+          "discriminator": "2410",
+          "nickname": "steppenWolf",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1017453577750466712",
+        "channelId": "1017076634861449311",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1017456638447325205",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T15:29:26.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017456045175607348",
+        "name": "ajoshi",
+        "discriminator": "5160",
+        "nickname": "ajoshi",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017456639395254272",
+      "type": "Default",
+      "timestamp": "2022-09-08T15:29:26.262+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @ajoshi! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017457578722197534",
+      "type": "Reply",
+      "timestamp": "2022-09-08T15:33:10.215+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you so much! Appreciate it!! \uD83D\uDE0C",
+      "author": {
+        "id": "911008495300661338",
+        "name": "steppenWolf",
+        "discriminator": "2410",
+        "nickname": "steppenWolf",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/911008495300661338/30b550bdb00781044de4cba13afe4dfc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "730231366175948802",
+          "name": "vish",
+          "discriminator": "1233",
+          "nickname": "vish",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1017455624650494053",
+        "channelId": "1017076634861449311",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1017471261984706660",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T16:27:32.559+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "774280850475974696",
+        "name": "uday",
+        "discriminator": "6431",
+        "nickname": "uday",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017471262739660880",
+      "type": "Default",
+      "timestamp": "2022-09-08T16:27:32.739+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @uday! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017471551278428251",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T16:28:41.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "770851503761260564",
+        "name": "Uday",
+        "discriminator": "0297",
+        "nickname": "Uday",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017471552368943125",
+      "type": "Default",
+      "timestamp": "2022-09-08T16:28:41.792+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Uday! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017487548639100969",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T17:32:15.6+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "992434117562077215",
+        "name": "sanskrit_hitaay",
+        "discriminator": "8587",
+        "nickname": "sanskrit_hitaay",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/992434117562077215/4787c215e6b2406413878927d5e7aeae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017487549138210828",
+      "type": "Default",
+      "timestamp": "2022-09-08T17:32:15.719+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @sanskrit_hitaay! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1017500955459190815",
+      "type": "Default",
+      "timestamp": "2022-09-08T18:25:32.035+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017500957854154802",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-08T18:25:32.606+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "751470420515094648",
+        "name": "राजेश्वरी",
+        "discriminator": "7749",
+        "nickname": "राजेश्वरी",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017591419977859142",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-09T00:25:00.457+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017590947518890054",
+        "name": "Shrini",
+        "discriminator": "0172",
+        "nickname": "Shrini",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017590947518890054/1628fc11e7961d85181295493426b775.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017591420963528796",
+      "type": "Default",
+      "timestamp": "2022-09-09T00:25:00.692+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Shrini! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017629633476296746",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-09T02:56:51.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017629432929853520",
+        "name": "Rajagopal Sreenivasan",
+        "discriminator": "3077",
+        "nickname": "Rajagopal Sreenivasan",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017629634122236006",
+      "type": "Default",
+      "timestamp": "2022-09-09T02:56:51.419+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Rajagopal Sreenivasan! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017638403011006544",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-09T03:31:42.085+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "900557508874215425",
+        "name": "jora",
+        "discriminator": "3605",
+        "nickname": "jora",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017638403858247731",
+      "type": "Default",
+      "timestamp": "2022-09-09T03:31:42.287+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @jora! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017645155517476874",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-09T03:58:32.008+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017645007374667858",
+        "name": "Mukund",
+        "discriminator": "2355",
+        "nickname": "Mukund",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017645156142415913",
+      "type": "Default",
+      "timestamp": "2022-09-09T03:58:32.157+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Mukund! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017700064925331516",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-09T07:36:43.431+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017699911829032980",
+        "name": "vishweshgm",
+        "discriminator": "8546",
+        "nickname": "vishweshgm",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017700065680306247",
+      "type": "Default",
+      "timestamp": "2022-09-09T07:36:43.611+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @vishweshgm! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017712067219836989",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-09T08:24:25.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017711950190346241",
+        "name": "sandeepst",
+        "discriminator": "6617",
+        "nickname": "sandeepst",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017712067614089227",
+      "type": "Default",
+      "timestamp": "2022-09-09T08:24:25.095+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @sandeepst! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017724389397102633",
+      "type": "Default",
+      "timestamp": "2022-09-09T09:13:22.837+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017724390638628914",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-09T09:13:23.133+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "997709519087997023",
+        "name": "9851189847",
+        "discriminator": "6365",
+        "nickname": "9851189847",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017761584409485315",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-09T11:41:10.819+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017761376086794250",
+        "name": "Sthaneshwar",
+        "discriminator": "9174",
+        "nickname": "Sthaneshwar",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017761585034436640",
+      "type": "Default",
+      "timestamp": "2022-09-09T11:41:10.968+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Sthaneshwar! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017769451610963999",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-09T12:12:26.506+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017769128481787974",
+        "name": "Suresh Jadhav",
+        "discriminator": "9607",
+        "nickname": "Suresh Jadhav",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017769452332392458",
+      "type": "Default",
+      "timestamp": "2022-09-09T12:12:26.678+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Suresh Jadhav! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017783305162215445",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-09T13:07:29.45+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017782857810329640",
+        "name": "sastry",
+        "discriminator": "3440",
+        "nickname": "sastry",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017782857810329640/f7f2e9361e8a54ce6e72580ac7b967af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017783305862647858",
+      "type": "Default",
+      "timestamp": "2022-09-09T13:07:29.617+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @sastry! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017786153400807474",
+      "type": "Default",
+      "timestamp": "2022-09-09T13:18:48.523+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "नमो नमः। अहं MVR शास्त्री । बङ्गलूरूनगरे वसामि। संस्कृतशिक्षणे, पुरातनग्रन्थानां digitization, अद्वैतवेदान्ते, संस्कृतभाषायाः लौकिकस्वरूपे , संस्कृतक्षेत्रे धनार्जनाय नूतनावसरकल्पने इत्यादिषु विषयेषु मम रूचिः वर्तते।",
+      "author": {
+        "id": "1017782857810329640",
+        "name": "sastry",
+        "discriminator": "3440",
+        "nickname": "sastry",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017782857810329640/f7f2e9361e8a54ce6e72580ac7b967af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017786582360653824",
+      "type": "Default",
+      "timestamp": "2022-09-09T13:20:30.795+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "इदानीं ई-शिक्षणप्रकल्पे कार्यं कुर्वन् अस्मि।",
+      "author": {
+        "id": "1017782857810329640",
+        "name": "sastry",
+        "discriminator": "3440",
+        "nickname": "sastry",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017782857810329640/f7f2e9361e8a54ce6e72580ac7b967af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017792237905649694",
+      "type": "Reply",
+      "timestamp": "2022-09-09T13:42:59.182+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "भो भो सज्जन! मादृशान्य् एव भवतो रुचयः। क्व बॆङ्गळूरुनगरे वासः? अहं सहकारनगरे ऽस्मि। digitization=शब्देन पृष्ठचित्रग्रहणम् अभिप्रेतम्, अथवा +उट्टङ्कनपरिष्कारादिकम्?",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1017782857810329640",
+          "name": "sastry",
+          "discriminator": "3440",
+          "nickname": "sastry",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1017786153400807474",
+        "channelId": "1017076634861449311",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1017809152027938866",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-09-09T14:50:11.823+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1017808880526434356",
+        "name": "Vishnu Sarma",
+        "discriminator": "0835",
+        "nickname": "Vishnu Sarma",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017809152338305135",
+      "type": "Default",
+      "timestamp": "2022-09-09T14:50:11.897+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Vishnu Sarma! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017950570503487629",
+      "type": "Default",
+      "timestamp": "2022-09-10T00:12:08.615+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017978554396463164",
+      "type": "Default",
+      "timestamp": "2022-09-10T02:03:20.495+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017984279076163666",
+      "type": "Default",
+      "timestamp": "2022-09-10T02:26:05.365+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017984405387612210",
+      "type": "Default",
+      "timestamp": "2022-09-10T02:26:35.48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "namaskaromi! mama nama kaśyapaḥ. I have lapsed in my knowledge of sanskrit, and I hope to regain it. It's a pleasure to meet you all!",
+      "author": {
+        "id": "1017977362182316133",
+        "name": "skmnktl",
+        "discriminator": "1845",
+        "nickname": "skmnktl",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1018002376642273293",
+      "type": "Default",
+      "timestamp": "2022-09-10T03:38:00.161+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018324106241908788",
+      "type": "Default",
+      "timestamp": "2022-09-11T00:56:26.475+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018326474622779392",
+      "type": "Reply",
+      "timestamp": "2022-09-11T01:05:51.141+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "मम नाम श्रीनिवासः । अहं संस्कृतस्य आरम्भिकः छात्रः अस्मि",
+      "author": {
+        "id": "1001721165984837672",
+        "name": "Srinivas",
+        "discriminator": "3005",
+        "nickname": "Srinivas",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "159985870458322944",
+          "name": "MEE6",
+          "discriminator": "4876",
+          "nickname": "MEE6",
+          "isBot": true
+        }
+      ],
+      "reference": {
+        "messageId": "1018324106241908788",
+        "channelId": "1017076634861449311",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1018331447523803256",
+      "type": "Default",
+      "timestamp": "2022-09-11T01:25:36.773+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018344491075260426",
+      "type": "Reply",
+      "timestamp": "2022-09-11T02:17:26.598+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "स्वागतम् भोः - https://discord.gg/H8qSYyxD इति तव रुचये स्यात्।",
+      "author": {
+        "id": "730231366175948802",
+        "name": "vish",
+        "discriminator": "1233",
+        "nickname": "vish",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730231366175948802/9d875c79c5481c8d2d04581c52ec08f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1001721165984837672",
+          "name": "Srinivas",
+          "discriminator": "3005",
+          "nickname": "Srinivas",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1018326474622779392",
+        "channelId": "1017076634861449311",
+        "guildId": "1017076634253283488"
+      }
+    },
+    {
+      "id": "1018431264476381195",
+      "type": "Default",
+      "timestamp": "2022-09-11T08:02:14.989+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018483366737223761",
+      "type": "Default",
+      "timestamp": "2022-09-11T11:29:17.136+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "धन्योस्मि",
+      "author": {
+        "id": "1017608892764659772",
+        "name": "Pradeepasimha",
+        "discriminator": "3588",
+        "nickname": "Pradeepasimha",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017608892764659772/ab776752caf9b5f30f987527a2555000.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018484307230212217",
+      "type": "Default",
+      "timestamp": "2022-09-11T11:33:01.367+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "मम नाम प्रदीपसिंहाचार्यः चतुर्वेदः। संस्कृताध्ययनरुचिः , विमर्शकः",
+      "author": {
+        "id": "1017608892764659772",
+        "name": "Pradeepasimha",
+        "discriminator": "3588",
+        "nickname": "Pradeepasimha",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1017608892764659772/ab776752caf9b5f30f987527a2555000.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64f.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1018500714579898458",
+      "type": "Default",
+      "timestamp": "2022-09-11T12:38:13.184+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018509821084979272",
+      "type": "Default",
+      "timestamp": "2022-09-11T13:14:24.344+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018749323581861898",
+      "type": "Default",
+      "timestamp": "2022-09-12T05:06:06.189+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018880567049211934",
+      "type": "Default",
+      "timestamp": "2022-09-12T13:47:37.07+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018897684926578748",
+      "type": "Default",
+      "timestamp": "2022-09-12T14:55:38.29+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019106611035377694",
+      "type": "Default",
+      "timestamp": "2022-09-13T04:45:50.156+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "नमोऽस्तु @Unknown! स्वागतं हिन्दुविद्यासमूहे! मन्दन्तां देवाः!!\nWelcome! How about introducing yourself and your interests?",
+          "color": "#60D1F6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+            "width": 1600,
+            "height": 1363
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YQxsBCRvMwY_BgnE9gTAZKLr4HyIwRG05g4MWLy_59w/https/cdn-longterm.mee6.xyz/plugins/welcome/images/1017076634253283488/2480e374acb29f7f41ba716cc97d4d5d880d0ecfec9801a0b2b1bf53e1ec6e09.jpeg",
+              "width": 1600,
+              "height": 1363
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019174371593568336",
+      "type": "Reply",
+      "timestamp": "2022-09-13T09:15:05.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ಅಹಂ ಪೂಜಾಭಿಧೇಯಾ. ರಾಮಾಯಣಾನುಸಂಧಾನಂ ಮಮ ಪ್ರಿಯಮ್. ಸಂಗಣಕಕ್ಷೇತ್ರೇ ವೃತ್ತಿ:.",
+      "author": {
+        "id": "1018896230958497884",
+        "name": "p6",
+        "discriminator": "4473",
+        "nickname": "p6",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1018896230958497884/8569adcbd36c70a7578c017bf5604ea5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "159985870458322944",
+          "name": "MEE6",
+          "discriminator": "4876",
+          "nickname": "MEE6",
+          "isBot": true
+        }
+      ],
+      "reference": {
+        "messageId": "1018897684926578748",
+        "channelId": "1017076634861449311",
+        "guildId": "1017076634253283488"
+      }
+    }
+  ],
+  "messageCount": 116
+}
